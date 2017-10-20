@@ -23,4 +23,4 @@
     docker_image_tag: "latest"
     dockerfile_path: "Dockerfile"
     context_path: "."
-    repository: "andy2mrqz/buddy-demo"
+    repository: "andymrqz/buddy-demo"
